@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">お釣りスマート</string>
+    <string name="guide_price">Input Price Here...</string>
+    <string name="guide_suggestions">Payment Suggestions</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_payment_detail">お釣り詳細</string>
+    <string name="price">Price</string>
+    <string name="payment">Payment</string>
+    <string name="change">Smart Change</string>
+
+</resources>
